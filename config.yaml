@@ -1,0 +1,6 @@
+path: D:\Python Programs\object_detection\Model
+train: images/train
+val: images/train
+
+names:
+  0: building
